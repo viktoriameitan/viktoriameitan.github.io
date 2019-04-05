@@ -1515,11 +1515,6 @@ body {
 .cid-rmHsZk8rqA .media-container-row .row-copirayt p {
   width: 100%;
 }
-.cid-rmL0odeUly {
-  padding-top: 0px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
 .cid-rmHrevleTd {
   background: #ffffff;
   padding-top: 0px;
@@ -1532,6 +1527,11 @@ body {
   .cid-rmHrevleTd .video-block {
     width: 100% !important;
   }
+}
+.cid-rmL0odeUly {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
 }
 .cid-rmHTnJirDd {
   padding-top: 0px;
